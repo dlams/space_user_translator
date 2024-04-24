@@ -220,4 +220,3 @@ document.addEventListener('click', function(event) {
     changeSpanColor()
   }
 });
-
